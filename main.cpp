@@ -5,6 +5,7 @@
 //  Created by Mohit on 15/06/18.
 //  Copyright © 2018 Mohit. All rights reserved.
 //
+// it is a github project
 
 #include<iostream>
 int main()
